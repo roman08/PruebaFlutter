@@ -1,6 +1,4 @@
-# app_demo
-
-A new Flutter project.
+# Wallet flutter
 
 ## Getting Started
 

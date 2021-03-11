@@ -1,0 +1,342 @@
+str,en,ru
+sign_in,Sign in,Sign in
+sign_up,Sign up,Sign up
+create_account,Create an Account,Create an Account
+welcome_slogan,Easy way to send money to you friends and close people,Easy way to send money to you friends and close people
+email_address,Email Address,Email Address
+password,Password,Password
+repeat_password,Repeat Password,Repeat Password
+phone_number,Phone Number,Phone Number
+phone_number_code,Code,Code
+gender,Gender,Gender
+date_of_birth,Date of Birth,Date of Birth
+male,Male,Male
+female,Female,Female
+nickname,Nickname,Nickname
+provide_details,Please enter your user details,Please enter your user details
+continue,Continue,Continue
+confirmation,Confirmation,Confirmation
+skip,Skip,Skip
+code_sent_to_number,Code has been sent to number,Code has been sent to number
+sms_code,SMS-Code,SMS-Code
+get_new_code,Get new code,Get new code
+get_new_code_in,Get new code in,Get new code in
+repeat_pass_code,Repeat passcode,Repeat passcode
+enter_pass_code,Enter your Passcode,Enter your Passcode
+create_passcode,"Create a passcode for your account","Create a passcode for your account"
+repeat_code,Repeat Code,Repeat Code
+cancel,Cancel,Cancel
+delete,Delete,Delete
+verify_your_identity,Verify your Identity,Verify your Identity
+please_verify_personality,Please verify your personality to get full access to transactions,Please verify your personality to get full access to transactions
+first_name,First Name,First Name
+last_name,Last Name,Last Name
+type_of_document,Type of document,Type of document
+proceed,Proceed,Proceed
+sign_up_success,Success!,Success!
+account_created,Your account has been created,Your account has been created
+done,Done,Done
+passcodes_not_match,"Passcodes do not match, try again","Passcodes do not match, try again"
+email_or_phone_number,Email Address or Phone Number,Email Address or Phone Number
+forgot_password,Forgot Password?,Forgot Password?
+request_password_reset,Request Password Reset,Request Password Reset
+we_send_you_email_or_sms,Enter Email Address or Phone number you registered with and we’ll send you an email or sms with password reset instructions.,Enter Email Address or Phone number you registered with and we’ll send you an email or sms with password reset instructions.
+submit,Submit,Submit
+verify_code,Verify code,Verify code
+please_enter_code,Please enter the code we sent to you,Please enter the code we sent to you
+verification_code,Verification Code,Verification Code
+create_new_password,Create a new password,Create a new password
+fill_fields_to_create_password,Fill follow fields to creation of a new password,Fill follow fields to creation of a new password
+new_password,New Password,New Password
+confirm_new_password,Confirm New Password,Confirm New Password
+unrecognized_username_or_password,"Sorry, unrecognized username or password","Sorry, unrecognized username or password"
+error,Error,Error
+success,Success,Success
+ok,OK,OK
+alert,Alert,Alert
+wrong_email_or_phone_number,Wrong email or phone number,Wrong email or phone number
+check_your_email_instructions,Check your email for instructions,Check your email for instructions
+check_your_sms_instructions,Check your sms for instructions,Check your sms for instructions
+password_has_been_created,Password has been created,Password has been created
+password_has_been_changed,Password has been changed,Password has been changed
+connect_address_book,Connect Address Book,Connect Address Book
+explanation_text_why_ask_and_where,Explanation Text why we ask and where to switch off (in system settings),Explanation Text why we ask and where to switch off (in system settings)
+request_contacts,Request contacts,Request contacts
+wallet_from,Wallet From,Wallet From
+wallet_to,Wallet To,Wallet To
+amount,Amount,Amount
+description,Description,Description
+select_wallet,Select Wallet,Select Wallet
+total,Total,Total
+fee,Fee,Fee
+most_popular_payments,Most Popular Payments,Most Popular Payments
+recent_transfers,Recent Transfers,Recent Transfers
+whats_new,What's new,What's new
+send_money,Send Money,Send Money
+request_money,Request Money,Request Money
+pay_bills,Pay Bills,Pay Bills
+pay_invoice,Pay Invoice,Pay Invoice
+send_invoice,Send Invoice,Send Invoice
+currency_swap,Currency Swap,Currency Swap
+buy_insurance,Buy Insurance,Buy Insurance
+buy_stocks,Buy Stocks,Buy Stocks
+open_bank_account,Open Bank Account,Open Bank Account
+bank_account,Bank Account,Bank Account
+all,All,All
+wallets,Wallets,Wallets
+wallet,Wallet,Wallet
+send,Send,Send
+add_fund,Add Fund,Add Fund
+add_funds,Add Funds,Add Funds
+withdraw,Withdraw,Withdraw
+wallet_id,Wallet ID,Wallet ID
+overview,Overview,Overview
+snapshot,Snapshot,Snapshot
+hello,Hello,Hello
+send_to_contact,Send to Contact,Send to Contact
+send_money_by_qr_code,Send Money by QR-Code,Send Money by QR-Code
+request_money_by_qr_code,Request Money by QR-Code,Request Money by QR-Code
+request_from_contact,Request from Contact,Request from Contact
+cant_sent_money,Now you can send money only to Velmie clients,Now you can send money only to Velmie clients
+cant_request_money,Now you can request money only from Velmie clients,Now you can request money only from Velmie clients
+you_can_review_transfer_history,You can review your transfer in your transaction history,You can review your transfer in your transaction history
+search,Search,Search
+qr_code_details,QR-Code Details,QR-Code Details
+generate_qr_code,Generate QR-code,Generate QR-code
+share,Share,Share
+open_request,Open Request,Open Request
+open_request_description,Payers can enter amount they wish to pay,Payers can enter amount they wish to pay
+recipient,Recipient,Recipient
+you_dont_have_currency_wallet,You don’t have a wallet in the currency that was requested. Please create one to complete transaction,You don’t have a wallet in the currency that was requested. Please create one to complete transaction
+qr_code,QR-Code,QR-Code
+payers_enter_amount,Payers can enter amount they wish to pay.,Payers can enter amount they wish to pay.
+save_to_gallery,Qr-Code has been featured in a gallery,Qr-Code has been featured in a gallery
+account_level,Account Level,Account Level
+app_name,Neobank,Neobank
+account_settings,Account Level,Account Level
+profile_details,Profile details,Profile details
+settings,Settings,Settings
+profile,Profile,Profile
+reset_password,Reset Password,Reset Password
+kyc_account_level,KYC Level,KYC Level
+kyc_current_level,Current Level,Current Level
+kyc_upgrade,Upgrade,Upgrade
+kyc_your_features,Your Features,Your Features
+kyc_your_limits,Your Limits,Your Limits
+kyc_verification_progress,Verification Progress,Verification Progress
+kyc_check_quality,Check Quality,Check Quality
+kyc_quality_description,"Make sure your card is physically present, all details are clear to read with no blur or glare.","Make sure your card is physically present, all details are clear to read with no blur or glare."
+kyc_document_readable,Document is Readable,Document is Readable
+kyc_take_new_picture,Take a New Picture,Take a New Picture
+kyc_add_full_name,Add Full Name,Add Full Name
+kyc_confirm,Confirm,Confirm
+kyc_date_format,DD/MM/YYYY,DD/MM/YYYY
+kyc_birthday_title,Add Date of Birth,Add Date of Birth
+kyc_add_maiden,Add Mother’s Maiden Name,Add Mother’s Maiden Name
+kyc_add_selfie,Add Selfie,Add Selfie
+kyc_add_document,Add Identification Document,Add Identification Document
+kyc_full_name_note,What is your Full Name?,What is your Full Name?
+kyc_email_note,Code has been sent to you email address,Code has been sent to you email address
+kyc_phone_note,Code has been sent to you phone,Code has been sent to you phone
+kyc_birthday_note,What is your Date of Birth?,What is your Date of Birth?
+kyc_mother_name_note,What is your Mother's Maiden Name?,What is your Mother's Maiden Name?
+kyc_type_note,Please provide a document that verify your personality,Please provide a document that verify your personality
+kyc_selfie,Selfie,Selfie
+kyc_selfie_note,My selfie is clear,My selfie is clear
+kyc_new_picture,Take a New Picture,Take a New Picture
+kyc_send_request,Send Upgrade Request,Send Upgrade Request
+kyc_success,Success,Success
+kyc_email_verified,Email address is verified,Email address is verified
+kyc_phone_verified,Phone number is verified,Phone number is verified
+kyc_send_email_code,Code has been sent to you email address,Code has been sent to you email address
+kyc_send_sms_code,Code has been sent to you phone number,Code has been sent to you phone number
+kyc_verification_code,Verification Code,Verification Code
+kyc_get_new_code,Get new code,Get new code
+kyc_add_photo,Add photo,Add photo
+kyc_change_photo,Change photo,Change photo
+kyc_verified,Verified,Verified
+kyc_unverified,Unverified,Unverified
+kyc_id_number,ID Number,ID Number
+kyc_select_from_galery,Select from Gallery,Select from Gallery
+kyc_id_national,National ID,National ID
+kyc_take_shot,Take a Shot,Take a Shot
+kyc_add_document_photo,Add Document Photo,Add Document Photo
+kyc_change_document_photo,Change Document Photo,Change Document Photo
+kyc_identification_document,Identification Document,Identification Document
+kyc_identification_document_note,Please provide a document that verify your personality,Please provide a document that verify your personality
+kyc_success_title,You requested upgrade your account level to,You requested upgrade your account level to
+kyc_success_body,We’ll check you information and send you notification shortly.,We’ll check you information and send you notification shortly.
+kyc_alert_1,Please,Please
+kyc_alert_2,Upgrade your KYC level,Upgrade your KYC level
+kyc_alert_3,to unlock access to more features on your account.,to unlock access to more features on your account.
+group_details_level,Level,Level
+save,Save,Save
+notifications,Notifications,Notifications
+delete_send_money_request,Do you want to delete send money request? You won’t see it again,Do you want to delete send money request? You won’t see it again
+delete_request,Delete Request?,Delete Request?
+transactions,History,History
+more,More,More
+close,Close,Close
+open,Open,Open
+incoming,Incoming,Incoming
+outgoing,Outgoing,Outgoing
+categories,Categories,Categories
+select_date_range,Select Date Range,Select Date Range
+transaction_details,Transaction Details,Transaction Details
+date_from,Date From,Date From
+date_to,Date To,Date To
+source_phone_number,Source Phone Number,Source Phone Number
+source_wallet,Source Wallet,Source Wallet
+recipient_wallet,Recipient Wallet,Recipient Wallet
+method,Payment Method,Payment Method
+transaction_id,Transaction ID,Transaction ID
+date_created,Date Created,Date Created
+status,Status,Status
+bill_category,Bill Category,Bill Category
+biller,Biller,Biller
+bill_number,Bill Number,Bill Number
+transaction_details_information,"Do more with Velmie! Send money across Caribbean, purchase Airtime, process Cross-Border Bill Payments, Send Invoice, Request and Receive payments from and into your wallet.","Do more with Velmie! Send money across Caribbean, purchase Airtime, process Cross-Border Bill Payments, Send Invoice, Request and Receive payments from and into your wallet."
+clear,Clear,Clear
+beneficiary,Beneficiary,Beneficiary
+beneficiary_phone_number,Beneficiary's Phone Number,Beneficiary's Phone Number
+source,Source,Source
+pending,Pending,Pending
+successful,Successful,Successful
+failed,Failed,Failed
+payments,Payments,Payments
+yesterday,Yesterday,Yesterday
+today,Today,Today
+later,Later,Later
+send_money_requests,Send Money Requests,Send Money Requests
+send_by_payment_link,Send by Payment Link,Send by Payment Link
+send_by_request,Send money by Request,Send money by Request
+other_services,Other Services/Products,Other Services/Products
+billers_merchants,Billers/Merchants,Billers/Merchants
+others,Others,Others
+upgrade_kyc_level,Upgrade KYC Level,Upgrade KYC Level
+logout,Logout,Logout
+terms_and_privacy_policy,By creating an account you agree to our Terms of Service and Privacy Policy,By creating an account you agree to our Terms of Service and Privacy Policy
+you_agree_with,By creating an account you agree to our,By creating an account you agree to our
+and,and,and
+next,Next,Next
+code_sent_to_your_email,Code has been sent to you email address,Code has been sent to you email address
+error_password_mismatch,Password mismatch,Password mismatch
+pass_code_fail,Error entering passcode,Error entering passcode
+number_attempts,The number of attempts:,The number of attempts:
+incoming_wire_transfer,Incoming wire transfers,Incoming wire transfers
+outgoing_wire_transfer,Outgoing wire transfers,Outgoing wire transfers
+your_request_sent_for_approval,"Your request has been sent for approval. Request id: {id}","Your request has been sent for approval. Request id: {id}"
+swift_bic,SWIFT / BIC,SWIFT / BIC
+name,Name,Name
+address,Address,Address
+location,Location,Location
+country,Country,Country
+aba_rtn,ABA/RTN,ABA/RTN
+iban,Acc# / IBAN,Acc# / IBAN
+ref_message,Ref message,Ref message
+add_info,Additional Information,Additional Information
+scepify_bank,Specify Intermediary Bank,Specify Intermediary Bank
+transfer_details,Transfer Details,Transfer Details
+mpesa,Mpesa,Mpesa
+credit_card,Credit Card,Credit Card
+card_number,Card Number,Card Number
+expiration_date,Expiration Date,Expiration Date
+cvv,CVV,CVV
+self_help,Self Help,Self Help
+my_card_and_bank_settings,My Card & Bank Settings,My Card & Bank Settings
+refer_and_earn,Refer & Earn,Refer & Earn
+contact_us,Contact Us,Contact Us
+change_password,Change Password,Change Password
+change_passcode,Change Passcode,Change Passcode
+old_passcode,Old passcode,Old passcode
+new_passcode,New passcode,New passcode
+repeat_new_passcode,Repeat new passcode,Repeat new passcode
+no_transactions,There are no transactions yet,There are no transactions yet
+no_notifications,There are no notifications yet,There are no notifications yet
+change_nickname_description,It’s a short name for easy communication,It’s a short name for easy communication
+change_password_description,Fill follow fields to change the password.,Fill follow fields to change the password.
+deposit_not_allowed,It is not allowed to perform deposit to this account,It is not allowed to perform deposit to this account
+withdrawals_not_allowed,It is not allowed to perform withdrawals from this account,It is not allowed to perform withdrawals from this account
+cant_make_transactions_between_your_accounts,You cannot make transactions between your accounts,You cannot make transactions between your accounts
+first_should_not_be_empty,First Name should not be empty,First Name should not be empty
+second_should_not_be_empty,Second Name should not be empty,Second Name should not be empty
+old_password,Old Password,Old Password
+full_name,Full Name,Full Name
+full_name_change_description,Please enter your First and Last name,Please enter your First and Last name
+full_name_change_description,Please enter your First and Last name,Please enter your First and Last name
+biometric_face_id_title,Face ID,Face ID
+biometric_face_id_message,Connect Biometrics and you can use application without entering passcode or password,Connect Biometrics and you can use application without entering passcode or password
+biometric_connect,Connect,Connect
+biometric_face_id_alert,Setup Face ID to enter without access code,Setup Face ID to enter without access code
+biometric_touch_id_message,Connect Biometrics and you can use application without entering passcode or password,Connect Biometrics and you can use application without entering passcode or password
+biometric_touch_id_action,Connect Touch ID,Connect Touch ID
+biometric_touch_id_alert,Setup Touch ID to enter without access code,Setup Touch ID to enter without access code
+biometric_touch_id_alert,Setup Touch ID to enter without access code,Setup Touch ID to enter without access code
+add_money,Add money,Add money
+transfer,Transfer,Transfer
+add_cards,Add Cards,Add Cards
+link_accounts,Link Accounts,Link Accounts
+wallet_balance,Wallet Balance,Wallet Balance
+my_account_settings,My Account Settings,My Account Settings
+bank_settings,My Card & Bank Settings,My Card & Bank Settings
+support,24x7 Help & Support,24x7 Help & Support
+specials_and_offers,Specials & Offers,Specials & Offers
+scan_to_pay,Scan to Pay,Scan to Pay
+top_up_balance,Top Up Balance,Top Up Balance
+foods,Foods,Foods
+travels,Travels,Travels
+more_with_dots,more...,more...
+view_all,View All,View All
+additional_security,Additional Security,Additional Security
+biometric_connect_description,"Connect Face Id and you can
+use application without entering
+passcode or password","Connect Face Id and you can
+use application without entering
+passcode or password"
+use_face_id,Use Face ID,Use Face ID
+use_touch_id_id,Use Touch ID,Use Touch ID
+how_it_works,How it works,How it works
+error_invalid_email,The e-mail address is not valid,The e-mail address is not valid
+error_invalid_password,Invalid password,Invalid password
+error_password_requirements,"Should contain at least 1 number, 1 uppercase letter and 1 special character","Should contain at least 1 number, 1 uppercase letter and 1 special character"
+error_field_is_required,Field is required,Field is required
+error_user_not_found,The user is not found,The user is not found
+error_email_already_exists,Provided email already exists,Provided email already exists
+error_phone_already_exists,Provided phone number already exists,Provided phone number already exists
+error_max_chars,Should be maximum {count} chars,Should be maximum {count} chars
+error_min_chars,Should be minimum {count} chars,Should be minimum {count} chars
+error_should_be_minimum_eight_characters,Should be a minimum of 8 characters,Should be a minimum of 8 characters
+error_should_be_minimum_three_characters,Should be a minimum of 3 characters,Should be a minimum of 3 characters
+error_passwords_do_not_match,Passwords do not match,Passwords do not match
+error_invalid_phone_number,Invalid phone number!,Invalid phone number!
+error_invalid_code,Invalid code!,Invalid code!
+error_blocked_account,Looks like your account is locked,Looks like your account is locked
+error_blocked_ip,Looks like your IP is blocked,Looks like your IP is blocked
+error_maintenance_mode,The system is in maintenance mode,The system is in maintenance mode
+error_users_user_is_dormant,The user has dormant status,The user has dormant status
+error_users_user_is_not_active,The user is not active,The user is not active
+error_users_user_is_pending,The user has status pending,The user has status pending
+error_invalid_password_or_email,"Sorry, unrecognized username or password. Have you forgotten your password?","Sorry, unrecognized username or password. Have you forgotten your password?"
+error_something_went_wrong,Something went wrong!,Something went wrong!
+error_internet_connection,Internet Connection Error,Internet Connection Error
+error_transaction_not_possible_due_to_difference_currency,The transaction is not possible due to difference in currency types you and your contact use,The transaction is not possible due to difference in currency types you and your contact use
+error_insufficient_wallet_balance,Insufficient Wallet Balance,Insufficient Wallet Balance
+terms_polity_legal,Legal,Legal
+terms_polity_accept,Accept,Accept
+terms_polity_terms_of_service,Terms of Service,Terms of Service
+terms_polity_privacy_policy,Privacy Policy,Privacy Policy
+terms_polity_review,Please review the Neobank Privacy Policy and Terms of Services,Please review the Neobank Privacy Policy and Terms of Services
+blocked_account,Looks like your account is locked,Looks like your account is locked
+blocked_ip,Looks like your IP is blocked,Looks like your IP is blocked
+invalid_password_or_email,"Sorry, unrecognized username or password. Have you forgotten your password?","Sorry, unrecognized username or password. Have you forgotten your password?"
+something_went_wrong,Something went wrong!,Something went wrong!
+avatar,Avatar,Avatar
+field_should_not_be_empty,Field should not be empty,Field should not be empty
+phone_exists,Entered phone number already exists,Entered phone number already exists
+phone_is_not_confirmed,Phone number is not confirmed,Phone number is not confirmed
+phone_invalid,Phone number is invalid,Phone number is invalid
+cannot_forgot_password,Unable to restore password,Unable to restore password
+invalid_confirmation_code,Invalid confirmation code,Invalid confirmation code
+account_not_found,Account not found,Account not found
+decimal_gte_validation,Invalid decimal part,Invalid decimal part
+unknown_email_or_phone_number,Unrecognized email or phone number,Unrecognized email or phone number
